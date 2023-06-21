@@ -13,8 +13,7 @@ The purpose of Development is that we should learn about that how thing work at 
 how data is stored and how it is used to give us a best interface and live environment. After
 developing this a Developer would be able to build more apps like this and this would help a
 developer to work more finely and he can develop Backend Programs at Large Scale. 
-@Some features of project:
-FEATURES OF PROJECT:
+#Some features of project:
  The features are same as Facebook provides but some features of the project are as
 follows:
 • I have designed User interface to Create, Login, and forgot Password of your
