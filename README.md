@@ -8,12 +8,12 @@ improvement in Technologies and power of social media today people depend on the
 things as they are needed in every aspect of there work and life. My project is not the entire
 backend development but I have tried my best to create it like Original, Since it is console
 based so it can not given a shape of Original.
-#Purpose of Development:
+# Purpose of Development:
 The purpose of Development is that we should learn about that how thing work at backend
 how data is stored and how it is used to give us a best interface and live environment. After
 developing this a Developer would be able to build more apps like this and this would help a
 developer to work more finely and he can develop Backend Programs at Large Scale. 
-#Some features of project:
+# Some features of project:
  The features are same as Facebook provides but some features of the project are as
 follows:
 • I have designed User interface to Create, Login, and forgot Password of your
