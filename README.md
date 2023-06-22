@@ -16,19 +16,19 @@ developer to work more finely and he can develop Backend Programs at Large Scale
 # Some features of project:
  The features are same as Facebook provides but some features of the project are as
 follows:
-• I have designed User interface to Create, Login, and forgot Password of your
+* I have designed User interface to Create, Login, and forgot Password of your
 account Created.
-• You can start Live video, see your Profile, Notifications, Add Bio and Professional
+* You can start Live video, see your Profile, Notifications, Add Bio and Professional
 Info.
-• Delete Setting option is also available in which you can Edit your Profile Account,
+* Delete Setting option is also available in which you can Edit your Profile Account,
  and Logout Option is also Available.
-• Help Center is also created to help users, in which a user can Contact our Staff,
+* Help Center is also created to help users, in which a user can Contact our Staff,
 Report a Problem and can also give us a Suggestion (Which would be helpful for me
 for future improvements and Developments).
-• An administrator account is also created to work on our user Reports, Suggestions
+* An administrator account is also created to work on our user Reports, Suggestions
 and for Support live chat. The administrator account would have all the features
 that are required to Control our whole setup.
-• I am further working on my Project to add more features and to create better user
+* I am further working on my Project to add more features and to create better user
 interface for my user
 # UML Diagram of My Facebook Application
 ![Uml facebook](https://github.com/AhmedBilalSSG/Facebook/assets/110194946/ad47d5f7-516a-48c9-943b-d86cc6e5003b)
